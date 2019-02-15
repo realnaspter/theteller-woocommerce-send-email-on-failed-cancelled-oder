@@ -6,7 +6,7 @@ Tags: woocommerce, payment gateway, payment gateways, Theteller,PaySwitch, paysw
 Author URI: https://perfectplusventures.com
 Author: Marc D Christopher AHOURE
 Requires at least: 2.3
-Tested up to: 5.0
+Tested up to: 5.1
 Stable tag: 1.0
 Version: 1.0 
 Requires PHP: 5.5 or Higher
