@@ -6,7 +6,7 @@ Plugin URI: https://wordpress.org/plugins/woocommerce-theteller-send-email-cance
 Description: Send Email on Cancelled or Failed Order Woocommerce Theteller Payment Gateway Add-on
 Version: 1.0
 Author: Marc D Christopher AHOURE
-Author URI: https://perfectplusventures.com
+Author URI: https://theteller.net
 
  */
 
