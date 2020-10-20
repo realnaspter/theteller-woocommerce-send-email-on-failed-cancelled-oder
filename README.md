@@ -1,15 +1,14 @@
-# Theteller Woocommerce Send Email On Failed Cancelled Oder
-
+# theteller-woocommerce-send-email-on-failed-cancelled-oder
 === Send Email on Cancelled or Failed Order Woocommerce Theteller Payment Gateway Add-on ===
 Contributors: Marc D Christopher AHOURE
 Tags: woocommerce, payment gateway, payment gateways, Theteller,PaySwitch, payswitch ghana pay, PaySwitch pay,Theteller.net, online payment, gh online payment,buy sell connect,ghana pay,pay gh,pay ghana,payment hub,ghana payment hub,pay direct, mobile wallet payment, mobile money payment,tigo cash payment, airtel money payment, send money,gh pay,gh payment platform, ghana payment platform,woocommerce plugin, Theteller WooCommerce Payment Gateway , add on , Theteller add-on , send email on cancelled or failed , 
-Author URI: https://perfectplusventures.com
+Author URI: https://theteller.net
 Author: Marc D Christopher AHOURE
 Requires at least: 2.3
-Tested up to: 5.1
+Tested up to: 5.5
 Stable tag: 1.0
 Version: 1.0 
-Requires PHP: 5.5 or Higher
+Requires PHP: 5.6 or Higher
 License: GPLv3 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
@@ -24,7 +23,7 @@ This add-on doesn't have any settings and is installed like any other WordPress 
 •	Send Email to customer on cancelled order.
 •	Send Email to customer on failed order
 
-•	Free Help – Theteller provides free technical and account support to merchants, as well as access to online documentation and user guides (ask@payswitch.com.gh).
+•	Free Help – Theteller provides free technical and account support to merchants, as well as access to online documentation and user guides (theteller@payswitch.com.gh).
 
 
 
@@ -66,6 +65,6 @@ If this is the first time you’ve installed a WordPress Plugin, you may need to
 
 == Contributors & Developers ==
 Developed by: Marc D Christopher AHOURE
-Email: dmcorporation2014@gmail.com
+Email: mahoure@payswitch.com.gh
 
 
